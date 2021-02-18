@@ -3,7 +3,7 @@
 Hi, I'm Daniil. Junior self-taught developer. My goal is to become a Senior Full-Stack Developer, then a Team Leader for a complete understanding of all stages of the development process to use this knowledge in the future for my own projects. So, as you can see, I'm a very ambitious guy 🏆
 
 ## Current technologies i'm studying or studied already
-Studied: 
+#### Studied: 
   - 1️⃣ HTML5
   - 2️⃣ CSS3 (Sass/Scss - understand)
   - 3️⃣ JavaScript
@@ -11,7 +11,7 @@ Studied:
   - 5️⃣ Redux (redux-form, redux-think, reselect)
   - 6️⃣ Git
   - 7️⃣ Rest API
-Studying right now: 
+#### Studying right now: 
   - 1️⃣ Next.js
   - 2️⃣ TypeScript
   - 3️⃣ GraphQL
