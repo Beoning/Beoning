@@ -4,17 +4,17 @@ Hi, I'm Daniil. Junior self-taught developer. My goal is to become a Senior Full
 
 ## Current technologies i'm studying or studied already
 - Studied: 
-   1. HTML5
-   2. CSS3 (Sass/Scss - understand)
-   3. JavaScript
-   4. React (react-router-dom, CRA, react-redux, jest, Axios)
-   5. Redux (redux-form, redux-think, reselect)
-   6. Git
-   7. Rest API
+   1️⃣ HTML5
+   2️⃣ CSS3 (Sass/Scss - understand)
+   3️⃣ JavaScript
+   4️⃣ React (react-router-dom, CRA, react-redux, jest, Axios)
+   5️⃣ Redux (redux-form, redux-think, reselect)
+   6️⃣ Git
+   7️⃣ Rest API
 - Studying right now: 
-   1. Next.js
-   2. TypeScript
-   3. GraphQL
+   1️⃣ Next.js
+   2️⃣ TypeScript
+   3️⃣ GraphQL
 
 **Get in touch:**
 - VK: https://vk.com/beoning
