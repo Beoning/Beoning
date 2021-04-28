@@ -8,7 +8,7 @@ Hi, I'm Daniil. A 21 y.o. Junior self-taught developer. My goal is to become a S
   - 2️⃣ CSS3 (Sass/Scss - understand)
   - 3️⃣ JavaScript
   - 4️⃣ React (react-router-dom, CRA, react-redux, jest, Axios)
-  - 5️⃣ Redux (redux-form, redux-thunk, reselect)
+  - 5️⃣ Redux (Redux ToolKit, redux-thunk)
   - 6️⃣ Git
   - 7️⃣ Rest API
 #### Studying right now: 
