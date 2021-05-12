@@ -1,6 +1,6 @@
 # Даниил Никитин - @Beoning
 
-Hi, I'm Daniil. A 21 y.o. Junior self-taught developer. My goal is to become a Senior Full-Stack Developer, then a Team Leader for a complete understanding of all stages of the development process to use this knowledge in the future for my own projects. So, as you can see, I'm a very ambitious 🏆
+Hi, I'm Daniil. A 21 y.o. Junior self-taught developer. My goal is to become a Senior Full-Stack Developer, then a Team Leader for a complete understanding of all stages of the development process to use this knowledge in the future for my own projects.
 
 ## Current technologies i'm studying or studied already
 #### Studied: 
