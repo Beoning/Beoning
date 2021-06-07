@@ -5,8 +5,8 @@ Hi, I'm Daniil. A 21 y.o. Junior self-taught developer. My goal is to become a S
 ## Current technologies i'm studying or studied already
 #### Studied: 
   - 1️⃣ HTML5
-  - 2️⃣ CSS3 (Sass/Scss - understand)
-  - 3️⃣ JavaScript
+  - 2️⃣ CSS3 (Sass/Scss, Material UI)
+  - 3️⃣ JavaScript/TypeScript
   - 4️⃣ React (react-router-dom, CRA, react-redux, jest, Axios)
   - 5️⃣ Redux (Redux ToolKit, redux-thunk)
   - 6️⃣ Git
