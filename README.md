@@ -2,20 +2,6 @@
 
 Let your ambition carry you 🌵
 
-## Current technologies i'm studying or studied already
-#### Studied: 
-  - 1️⃣ HTML5
-  - 2️⃣ CSS3 (Sass/Scss, Material UI)
-  - 3️⃣ JavaScript/TypeScript
-  - 4️⃣ React (react-router-dom, CRA, react-redux, jest, Axios)
-  - 5️⃣ Redux (Redux ToolKit, redux-thunk)
-  - 6️⃣ Git
-  - 7️⃣ Rest API
-#### Studying right now: 
-  - 1️⃣ Next.js
-  - 2️⃣ TypeScript
-  - 3️⃣ GraphQL
-
 **Get in touch:**
 - VK: https://vk.com/beoning
 - Email: daniil061999@mail.ru
