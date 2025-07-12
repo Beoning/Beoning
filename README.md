@@ -21,9 +21,12 @@
 
 <h1><img src="https://media.tenor.com/bU8W2-lHZhYAAAAi/luffy.gif" width="40" height="40">Technologies & Tools</h1>
 
+![](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&logoColor=ffffff&color=cd649b)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/MUI-informational?style=flat-square&logo=mui&logoColor=ffffff&color=1d70df)
+![](https://img.shields.io/badge/Antd-informational?style=flat-square&logo=antdesign&logoColor=ffffff&color=1867dc)
+![](https://img.shields.io/badge/Shadcn%2Fui-informational?style=flat-square&logo=Shadcn%2Fui&logoColor=ffffff&color=000000)
 ![](https://img.shields.io/badge/Redux%20Toolkit-informational?style=flat-square&logo=redux&logoColor=ffffff&color=593d88)
 ![](https://img.shields.io/badge/MobX-informational?style=flat-square&logo=mobx&logoColor=ffffff&color=db5a17)
 ![](https://img.shields.io/badge/Next-informational?style=flat-square&logo=next.js&logoColor=ffffff&color=000000)
@@ -36,6 +39,14 @@
 ![](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=ffffff&color=262456)
 ![](https://img.shields.io/badge/Turborepo-informational?style=flat-square&logo=turborepo&logoColor=ffffff&color=ef4444)
 ![](https://img.shields.io/badge/NX-informational?style=flat-square&logo=nx&logoColor=ffffff&color=10172a)
+![](https://img.shields.io/badge/Swagger-informational?style=flat-square&logo=swagger&logoColor=ffffff&color=54ca8f)
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=ffffff&color=1b64ee)
 ![](https://img.shields.io/badge/Arch%20Linux-informational?style=flat-square&logo=archlinux&logoColor=ffffff&color=0094da)
+![](https://img.shields.io/badge/nginx-informational?style=flat-square&logo=nginx&logoColor=ffffff&color=009637)
 
+<h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beoning&layout=compact&show_icons=true&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beoning&layout=compact&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea&hide=html,css,scss" />
+</div>
