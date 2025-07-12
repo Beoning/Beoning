@@ -22,6 +22,9 @@
 <h1><img src="https://media.tenor.com/bU8W2-lHZhYAAAAi/luffy.gif" width="40" height="40">Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&logoColor=ffffff&color=cd649b)
+![](https://img.shields.io/badge/JavaScript-informational?logo=javascript&logoColor=ffffff&color=db5a17)
+![](https://img.shields.io/badge/GSAP-informational?logo=greensock&logoColor=ffffff&color=0ae448)
+![](https://img.shields.io/badge/Three.js-informational?logo=three.js&logoColor=ffffff&color=000000)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/MUI-informational?style=flat-square&logo=mui&logoColor=ffffff&color=1d70df)
@@ -43,6 +46,10 @@
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=ffffff&color=1b64ee)
 ![](https://img.shields.io/badge/Arch%20Linux-informational?style=flat-square&logo=archlinux&logoColor=ffffff&color=0094da)
 ![](https://img.shields.io/badge/nginx-informational?style=flat-square&logo=nginx&logoColor=ffffff&color=009637)
+
+Additional Skills:
+![](https://img.shields.io/badge/DaVinci%20Resolve-informational?logo=DaVinci%20Resolve&logoColor=ffffff&color=d86b13)
+![](https://img.shields.io/badge/Figma-informational?logo=figma&logoColor=ffffff&color=ef5023)
 
 <h1><img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="40" height="40"> GitHub Stats</h1>
 
