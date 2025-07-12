@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Arch%20Linux-informational?style=flat-square&logo=archlinux&logoColor=ffffff&color=0094da)
 ![](https://img.shields.io/badge/nginx-informational?style=flat-square&logo=nginx&logoColor=ffffff&color=009637)
 
-<h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
+<h1><img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="40" height="40"> GitHub Stats</h1>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beoning&layout=compact&show_icons=true&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea" />
