@@ -25,9 +25,10 @@
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/MUI-informational?style=flat-square&logo=mui&logoColor=ffffff&color=1d70df)
 ![](https://img.shields.io/badge/Redux%20Toolkit-informational?style=flat-square&logo=redux&logoColor=ffffff&color=593d88)
+![](https://img.shields.io/badge/MobX-informational?style=flat-square&logo=mobx&logoColor=ffffff&color=db5a17)
 ![](https://img.shields.io/badge/Next-informational?style=flat-square&logo=next.js&logoColor=ffffff&color=000000)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=549ac7)
-![](https://img.shields.io/badge/Vite-informational?style=flat-square&logo=vite&logoColor=ffffff&color=ffcd2b)
+![](https://img.shields.io/badge/Vite-informational?style=flat-square&logo=vite&logoColor=ffffff&color=b500fe)
 ![](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=ffffff&color=336791)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=webstorm&logoColor=white&color=007acc)
@@ -35,4 +36,6 @@
 ![](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=ffffff&color=262456)
 ![](https://img.shields.io/badge/Turborepo-informational?style=flat-square&logo=turborepo&logoColor=ffffff&color=ef4444)
 ![](https://img.shields.io/badge/NX-informational?style=flat-square&logo=nx&logoColor=ffffff&color=10172a)
+![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=ffffff&color=1b64ee)
+![](https://img.shields.io/badge/Arch%20Linux-informational?style=flat-square&logo=archlinux&logoColor=ffffff&color=0094da)
 
