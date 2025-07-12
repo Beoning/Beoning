@@ -19,4 +19,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/d8114194-0515-4601-85f4-45cf5fddfbad.svg?style=flat-square)](https://wakatime.com/@d8114194-0515-4601-85f4-45cf5fddfbad)
 
-<h1><img src="octocats/octocat-squid.gif" width="40" height="40">Technologies & Tools</h1>
+<h1><img src="https://media.tenor.com/bU8W2-lHZhYAAAAi/luffy.gif" width="40" height="40">Technologies & Tools</h1>
