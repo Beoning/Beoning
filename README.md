@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://tenor.com/nsk1v79ZSdD.gif" width="40" height="40">
+  <img src="https://tenor.com/pRkRHRaQIj3.gif" width="40" height="40">
   Hi there!
 
   <a href="https://t.me/beoningg">
