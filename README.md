@@ -1,6 +1,6 @@
 <h1>
   <img src="https://media.tenor.com/ttMsN_OQVv0AAAAj/luffy-gear-5.gif" width="40" height="40">
-  Hi there!
+  In search of the Persona
 
   <a href="https://t.me/beoningg">
     <picture>
@@ -9,7 +9,7 @@
     </picture>
   </a>
 
-  <a href="https://instagram.com/beoningg">
+  <a href="https://instagram.com/persona.beo">
     <picture>
       <source width="40" align="right" media="(prefers-color-scheme: dark)" srcset="icons/instagram-light.svg">
       <img width="40" align="right" src="icons/instagram-dark.svg" />
