@@ -47,7 +47,6 @@
 ![](https://img.shields.io/badge/Arch%20Linux-informational?style=flat-square&logo=archlinux&logoColor=ffffff&color=0094da)
 ![](https://img.shields.io/badge/nginx-informational?style=flat-square&logo=nginx&logoColor=ffffff&color=009637)
 
-Additional Skills:
 ![](https://img.shields.io/badge/DaVinci%20Resolve-informational?logo=DaVinci%20Resolve&logoColor=ffffff&color=d86b13)
 ![](https://img.shields.io/badge/Figma-informational?logo=figma&logoColor=ffffff&color=ef5023)
 
