@@ -1,5 +1,5 @@
 <h1>
-  <img src="octocats/mona-whisper.gif" width="40" height="40">
+  <img src="https://tenor.com/ru/view/luffy-gear-5-pixel-one-piece-luffy-eyes-gif-11156930608521609759" width="40" height="40">
   Hi there!
 
   <a href="https://t.me/beoningg">
