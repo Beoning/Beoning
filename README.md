@@ -34,4 +34,5 @@
 ![](https://img.shields.io/badge/PNPM-informational?style=flat-square&logo=pnpm&logoColor=ffffff&color=f9ad00)
 ![](https://img.shields.io/badge/yarn-informational?style=flat-square&logo=yarn&logoColor=ffffff&color=262456)
 ![](https://img.shields.io/badge/Turborepo-informational?style=flat-square&logo=turborepo&logoColor=ffffff&color=ef4444)
+![](https://img.shields.io/badge/NX-informational?style=flat-square&logo=nx&logoColor=ffffff&color=10172a)
 
