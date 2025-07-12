@@ -12,7 +12,7 @@
   <a href="https://instagram.com/beoningg">
     <picture>
       <source width="40" align="right" media="(prefers-color-scheme: dark)" srcset="icons/instagram-light.svg">
-      <img width="40" align="right" src="icons/instagram-light.svg" />
+      <img width="40" align="right" src="icons/instagram-dark.svg" />
     </picture>
   </a>
 </h1>
