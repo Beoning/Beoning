@@ -49,10 +49,3 @@
 
 ![](https://img.shields.io/badge/DaVinci%20Resolve-informational?logo=DaVinci%20Resolve&logoColor=ffffff&color=d86b13)
 ![](https://img.shields.io/badge/Figma-informational?logo=figma&logoColor=ffffff&color=ef5023)
-
-<h1><img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="40" height="40"> GitHub Stats</h1>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beoning&layout=compact&show_icons=true&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beoning&layout=compact&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea" />
-</div>
